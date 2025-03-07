@@ -1,0 +1,43 @@
+# Ignore build directories
+/build/
+/out/
+/bin/
+/obj/
+/Debug/
+/Release/
+
+# Ignore CMake build files (if you're using CMake)
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+
+# Ignore Visual Studio Code specific files
+.vscode/
+
+# Ignore clang++ object files and binary files
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# Ignore temporary files created by the compiler or editor
+*.tmp
+*.swp
+*.bak
+
+# Ignore IDE/project-specific settings (if applicable)
+.idea/
+*.code-workspace
+
+# Ignore compiled files from Clang
+*.out
+
+# Ignore compiled library files
+*.lib
+*.dll
+
+# Ignore core dumps
+core.*
