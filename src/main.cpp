@@ -2,9 +2,9 @@
 #include <vector>
 #include <string>
 #include <stdexcept>
-#include "../include/functions.h"
+#include "../include/bpe.h"
 
-#define NUM_MERGES 20
+#define NUM_MERGES 500
 
 class Tokenizer {
 public:

@@ -1,5 +1,5 @@
-#ifndef FUNCTIONS_H
-#define FUNCTIONS_H
+#ifndef BPE_H
+#define BPE_H
 
 #include <string>   
 #include <vector>   

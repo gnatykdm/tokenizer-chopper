@@ -6,7 +6,7 @@
 #include <string>
 #include <cctype>
 #include <functional>
-#include "../include/functions.h"
+#include "../include/bpe.h"
 
 using namespace std;
 
