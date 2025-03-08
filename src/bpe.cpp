@@ -10,7 +10,7 @@
 
 using namespace std;
 
-#define END_WORD 256
+#define END_WORD '<w/>'
 #define SPACE_TOKEN 32
 
 // Structure for hashing a pair of integers (used for counting bigrams)
